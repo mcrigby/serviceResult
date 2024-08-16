@@ -11,7 +11,7 @@
     <Authors>Martin Cutillo-Rigby</Authors>
     <Company>Martin Cutillo-Rigby</Company>
     <Product>CutilloRigby.ServiceResult</Product>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Description>ServiceResult Pattern Implementation</Description>
     <Copyright>Martin Cutillo-Rigby 2024</Copyright>
     <IsPackable>true</IsPackable>
