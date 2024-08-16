@@ -12,7 +12,7 @@
     <Company>Martin Cutillo-Rigby</Company>
     <Product>CutilloRigby.ServiceResult</Product>
     <Version>1.0.0</Version>
-    <Description>String Extension Methods</Description>
+    <Description>ServiceResult Pattern Implementation</Description>
     <Copyright>Martin Cutillo-Rigby 2024</Copyright>
     <IsPackable>true</IsPackable>
   </PropertyGroup>
